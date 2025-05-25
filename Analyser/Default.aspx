@@ -34,6 +34,7 @@
     <form id="form1" runat="server" class="container py-5">
         <div class="text-center mb-4">
             <h2 class="text-primary">Personality Analyzer</h2>
+            <h3>new change commit</h3>
             <p class="lead">Select the image that attracts you first. Your visual choice reveals hidden traits!</p>
         </div>
 
