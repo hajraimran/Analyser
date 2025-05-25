@@ -45,6 +45,7 @@
             <asp:ListItem Value="Forest" Text="<img class='image-option img-thumbnail' src='https://via.placeholder.com/150/33ff77/000000?text=Forest' onclick='highlightSelection(&quot;rbImageChoice&quot;)' />" />
             <asp:ListItem Value="Mountain" Text="<img class='image-option img-thumbnail' src='https://via.placeholder.com/150/FFD700/000000?text=Mountain' onclick='highlightSelection(&quot;rbImageChoice&quot;)' />" />
             <asp:ListItem Value="Galaxy" Text="<img class='image-option img-thumbnail' src='https://via.placeholder.com/150/800080/FFFFFF?text=Galaxy' onclick='highlightSelection(&quot;rbImageChoice&quot;)' />" />
+            <asp:ListItem Value="Galaxy" Text="<img class='image-option img-thumbnail' src='https://via.placeholder.com/150/800080/FFFFFF?text=Galaxy' onclick='highlightSelection(&quot;rbImageChoice&quot;)' />" />
         </asp:RadioButtonList>
 
         <div class="text-center mt-4">
